@@ -1,4 +1,4 @@
-# Login dan Formulir Pendaftaran [Download Icons diSini](https://www.svgrepo.com/)
+# Form Login Dan Register [Download Icons diSini](https://www.svgrepo.com/)
 # [Background diSini](https://unsplash.com/@retrosupply)
 [Klik Saya](https://imin-code.github.io/Login-dan-Formulir-Pendaftaran/)
 ___________________________________________________________
